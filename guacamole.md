@@ -1,6 +1,6 @@
 # Ingredients
-- avacado £2
-- lime £2
-- salt £2
+- avacado
+- lime
+- salt 
 # Instructions 
 
